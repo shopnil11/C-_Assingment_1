@@ -1,0 +1,27 @@
+C:\Users\Acer\Desktop\Code\OOP2(C#)\Calculator1\Calculator1\bin\Debug\Calculator1.exe.config
+C:\Users\Acer\Desktop\Code\OOP2(C#)\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+C:\Users\Acer\Desktop\Code\OOP2(C#)\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+C:\Users\Acer\Desktop\Code\OOP2(C#)\Calculator1\Calculator1\obj\Debug\Calculator1.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Code\OOP2(C#)\Calculator1\Calculator1\obj\Debug\Calculator1.Form1.resources
+C:\Users\Acer\Desktop\Code\OOP2(C#)\Calculator1\Calculator1\obj\Debug\Calculator1.Properties.Resources.resources
+C:\Users\Acer\Desktop\Code\OOP2(C#)\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\Code\OOP2(C#)\Calculator1\Calculator1\obj\Debug\Calculator1.exe
+C:\Users\Acer\Desktop\Code\OOP2(C#)\Calculator1\Calculator1\obj\Debug\Calculator1.pdb
+C:\Users\Acer\Desktop\Assignment\Calculator1\Calculator1\bin\Debug\Calculator1.exe.config
+C:\Users\Acer\Desktop\Assignment\Calculator1\Calculator1\obj\Debug\Calculator1.exe
+C:\Users\Acer\Desktop\Assignment\Calculator1\Calculator1\obj\Debug\Calculator1.pdb
+C:\Users\Acer\Desktop\Assignment\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+C:\Users\Acer\Desktop\Assignment\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+C:\Users\Acer\Desktop\Assignment\Calculator1\Calculator1\obj\Debug\Calculator1.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Assignment\Calculator1\Calculator1\obj\Debug\Calculator1.Form1.resources
+C:\Users\Acer\Desktop\Assignment\Calculator1\Calculator1\obj\Debug\Calculator1.Properties.Resources.resources
+C:\Users\Acer\Desktop\Assignment\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\Several Subjects Projects\Assignment\Calculator1\Calculator1\bin\Debug\Calculator1.exe.config
+C:\Users\Acer\Desktop\Several Subjects Projects\Assignment\Calculator1\Calculator1\obj\Debug\Calculator1.exe
+C:\Users\Acer\Desktop\Several Subjects Projects\Assignment\Calculator1\Calculator1\obj\Debug\Calculator1.pdb
+C:\Users\Acer\Desktop\Several Subjects Projects\Assignment\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+C:\Users\Acer\Desktop\Several Subjects Projects\Assignment\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+C:\Users\Acer\Desktop\Several Subjects Projects\Assignment\Calculator1\Calculator1\obj\Debug\Calculator1.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Several Subjects Projects\Assignment\Calculator1\Calculator1\obj\Debug\Calculator1.Form1.resources
+C:\Users\Acer\Desktop\Several Subjects Projects\Assignment\Calculator1\Calculator1\obj\Debug\Calculator1.Properties.Resources.resources
+C:\Users\Acer\Desktop\Several Subjects Projects\Assignment\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.GenerateResource.Cache
